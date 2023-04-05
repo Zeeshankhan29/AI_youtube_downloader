@@ -1,0 +1,4 @@
+pytube
+pandas 
+numpy 
+matplotlib
